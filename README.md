@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data analyst from South Korea</h3>
 <img align='right' alt='coding' width='400' src='https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif'>
 
-- 🔭 I’m currently working on [Soccer: Is the Money Worth the Goals?](https://github.com/ericyang91/Soccer_Is_the_Money_Worth_the_Goals)
+- 🔭 I’m currently working on [Machine Learning: Titanic Survival](https://github.com/ericyang91/Machine_Learning_Titanic_Survival)
 
 - 🌱 I’m currently learning **machine learning**
 
