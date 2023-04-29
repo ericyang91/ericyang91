@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data analyst from South Korea</h3>
 <img align='right' alt='coding' width='400' src='https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif'>
 
-- 🔭 I’m currently working on [Machine Learning: Titanic Survival](https://github.com/ericyang91/Machine_Learning_Titanic_Survival)
+- 🔭 I’m currently working on [Bank's Enhanced Client Segmentation Using Machine Learning](https://github.com/ericyang91/Enhanced_Banks_Client_Segmentation_Using_Machine_Learning)
 
 - 🌱 I’m currently learning **machine learning**
 
