@@ -3,15 +3,15 @@
 <h3 align="center">A passionate data analyst from South Korea</h3>
 <img align='right' alt='coding' width='400' src='https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif'>
 
-- 🔭 I’m currently working on [Bank's Enhanced Client Segmentation Using Machine Learning](https://github.com/ericyang91/Enhanced_Banks_Client_Segmentation_Using_Machine_Learning)
+- 🔭 I’m currently working on [Netflix Content Distribution and Trends](https://github.com/ericyang91/Netflix_Content_Distribution_and_Trends)
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **tableau**
 
 - 👯 I’m looking to collaborate on **New Geckodonia business dashboard**
 
 - 📫 How to reach me **ericjyyang@gmail.com**
 
-- ⚡ Fun fact **United wins 23-24 season**
+- ⚡ Fun fact **We have a newborn baby!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
