@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Netflix Content Distribution and Trends](https://github.com/ericyang91/Netflix_Content_Distribution_and_Trends)
 
-- 🌱 I’m currently learning **tableau**
+- 🌱 I’m currently learning **Tableau**
 
 - 👯 I’m looking to collaborate on **New Geckodonia business dashboard**
 
