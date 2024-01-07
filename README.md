@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst from South Korea</h3>
 <img align='right' alt='coding' width='400' src='https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif'>
 
-- 🔭 I’m currently working on [Netflix Content Distribution and Trends](https://github.com/ericyang91/Netflix_Content_Distribution_and_Trends)
+- 🔭 I’m currently working on [LEGO the Ultimate Dashboard](https://github.com/ericyang91/LEGO_the_Ultimate_Dashboard)
 
 - 🌱 I’m currently learning **Tableau**
 
