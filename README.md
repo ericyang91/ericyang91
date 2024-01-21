@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **New Geckodonia business dashboard**
 
-- 📫 How to reach me **ericjyyang@gmail.com**
+- 📫 How to reach me: **ericjyyang@gmail.com**
 
-- ⚡ Fun fact **We have a newborn baby!**
+- ⚡ Fun fact: **We have a newborn baby!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
