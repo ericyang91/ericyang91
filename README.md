@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Data Analyst from South Korea</h3>
 <img align='right' alt='coding' width='400' src='https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif'>
 
-- 🔭 I’m currently working on [LEGO the Ultimate Dashboard](https://github.com/ericyang91/LEGO_the_Ultimate_Dashboard)
-
 - ⚡ I specialize in: **SQL, Excel, Python, Tableau**
+
+- 🔭 I’m currently working on [LEGO the Ultimate Dashboard](https://github.com/ericyang91/LEGO_the_Ultimate_Dashboard)
 
 - 🌱 I’m currently learning **Machine Learning**
 
