@@ -4,13 +4,14 @@
 
 - 🔭 I’m currently working on [LEGO the Ultimate Dashboard](https://github.com/ericyang91/LEGO_the_Ultimate_Dashboard)
 
+- ⚡ I specialize in: **SQL, Excel, Python, Tableau**
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **New Geckodonia business dashboard**
 
 - 📫 How to reach me: **ericjyyang@gmail.com**
 
-- ⚡ I specialize in: **SQL, Excel, Python, Tableau**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
