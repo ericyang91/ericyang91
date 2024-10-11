@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Yang</h1>
-<h3 align="center">A passionate Data Analyst from South Korea</h3>
+<h3 align="center">A passionate Data Analyst from Toronto</h3>
 <img align='right' alt='coding' width='400' src='https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif'>
 
 - ⚡ I specialize in: **SQL, Python, Excel, Tableau**
