@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Data Analyst from South Korea</h3>
 <img align='right' alt='coding' width='400' src='https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif'>
 
-- ⚡ I specialize in: **SQL, Python, Excel, Tableau, Power BI**
+- ⚡ I specialize in: **SQL, Python, Excel, Tableau**
 
 - 🔭 I’m currently working on [LEGO the Ultimate Dashboard](https://github.com/ericyang91/LEGO_the_Ultimate_Dashboard)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Python Algorithms**
 
-- 👯 I’m looking to collaborate on **New Geckodonia business dashboard**
+- 👯 I’m looking to collaborate on **N/A**
 
 - 📫 How to reach me: **ericjyyang@gmail.com**
 
