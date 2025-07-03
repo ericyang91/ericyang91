@@ -4,7 +4,7 @@
 
 - ⚡ I specialize in: **SQL, Python, Excel, Tableau**
 
-- 🔭 I’m currently working on N/A
+- 🔭 I’m currently working on **N/A**
 
 - 🌱 I’m currently learning **Python Algorithms**
 
